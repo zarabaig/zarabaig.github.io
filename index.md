@@ -18,6 +18,12 @@ h3 {text-align: center;}
 </a>
 </p>
 
+<p>Yufy and Zawa Album <br>
+<a href="https://photos.app.goo.gl/2aucWoG5ov6JU3B58">
+<img border="0" alt="W3Schools" src="baby.png" width="350" height="263">
+</a>
+</p>
+
 
 </body>
 </html>
