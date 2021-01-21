@@ -19,7 +19,7 @@ iframe {text-align: right;}
 </a>
 <p>Yufy and Zawa Album <br>
 <a href="https://photos.app.goo.gl/2aucWoG5ov6JU3B58">
-<img border="0" alt="W3Schools" src="bubs.png" width="350" height="338">
+<img border="0" alt="W3Schools" src="jaan.png" width="350" height="338">
 </a>
 </p>
 
