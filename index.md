@@ -12,9 +12,11 @@ h3 {text-align: center;}
 
 <h1>Welcome to the Website with everything about Yusuf and Zara</h1>
 <h3> Met: September 10th 2019. Started Dating: July 4th 2020.</h3>
-<p>Baby Yusuf Album <a href="https://www.icloud.com/sharedalbum/#B0SJtdOXmPVzaRL">
+<p>Baby Yusuf Album 
+<a href="https://www.icloud.com/sharedalbum/#B0SJtdOXmPVzaRL">
 <img border="0" alt="W3Schools" src="baby.png" width="350" height="263">
-</a></p>
+</a>
+</p>
 <div>This is a div.</div>
 
 </body>
