@@ -17,7 +17,7 @@ h3 {text-align: center;}
 <img border="0" alt="W3Schools" src="baby.png" width="350" height="263">
 </a>
 </p>
-<div>This is a div.</div>
+
 
 </body>
 </html>
