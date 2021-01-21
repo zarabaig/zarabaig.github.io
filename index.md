@@ -3,7 +3,7 @@
  <meta charset="UTF-8">
 <style>
 h1 {text-align: center;}
-p {text-align: right;}
+p {text-align: left;}
 div {text-align: center;}
 h3 {text-align: center;}
 </style>
