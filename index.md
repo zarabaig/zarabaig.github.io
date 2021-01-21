@@ -22,8 +22,5 @@ iframe {text-align: right;}
 <img border="0" alt="W3Schools" src="jaan.png" width="350" height="473">
 </a>
 </p>
-
-
-
 </body>
 </html>
